@@ -13,6 +13,15 @@ Hi Martin & All,
 
 Thanks for the response. While submitting the info as per template, I just now realized that the requirement was to make a tip calculator and not basic calculator. I apology, I some how perceived it as basic calculator and immediately started working on it as I was running short of time and so much to learn. Please keep in mind that I am new to iOS development and was very busy in my official project for last one month. I really don't want to miss this opportunity to learn iOS development. I have submitted my first swift calculator app, please do consider this for pre-work submission. I am have coded all the basic functionality of calculator and recorded in the video https://youtu.be/oqRadbmD_BU
 
+User stories covered are
+1. Implemented simple math operations +, - , =, * and / 
+2. Implemented %
+3. Impplemented +/- toggle
+4. Implemented 'C'
+5. Implemented DOT 
+
+
+
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [ ] Settings page to change the default tip percentage.
 
